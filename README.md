@@ -5,11 +5,11 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-  To make the website accessible.
+  To make the website accessible and to improve serach engine optimaztion.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
   So people who need to access the site with a screen reader can interact and naviagte the webpage.
 - What problem does it solve?
-  Creates accessibility
+  Creates accessibility.
 - What did you learn?
   HTML and CCS symantics and best practices, adding accesible features to a webpage.
 
@@ -26,7 +26,7 @@ Open in VS Code or other IDE.
 Provide instructions and examples for use. Include screenshots as needed.
 Open index.html with live server.
 Right click - Inspect or F12 on windows.
-View sorce code and ccs style sheet to see that accesibilty has been added and that it follows proper symantics.
+View source code and ccs style sheet to see that accesibilty has been added and that it follows proper symantics.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
