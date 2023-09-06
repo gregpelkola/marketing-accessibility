@@ -19,7 +19,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 Clone the repository from GitHub.
 Create directory you would like to use.
 Move assets, into the directory.
-Open in VS Code or other IDE.
+Open index.html and style.css in VS Code or other IDE.
 
 ## Usage
 
