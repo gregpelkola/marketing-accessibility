@@ -28,7 +28,7 @@ Open index.html with live server.
 Right click - Inspect or F12 on windows.
 View source code and ccs style sheet to see that accesibilty has been added and that it follows proper symantics.
 
-Live link- http://127.0.0.1:5500/marketing-accessibility/index.html
+Live link- gregpelkola.github.io/marketing-accesibiltiy
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
